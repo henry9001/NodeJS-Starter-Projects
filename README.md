@@ -1,2 +1,2 @@
-# NodeJS-Starter-Projects
-Starter project using node js 
+# NodeJS-Starter-Project
+Node projects using learnyounode
